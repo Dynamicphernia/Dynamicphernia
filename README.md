@@ -2,7 +2,7 @@
 
 # Hey, I'm Pouya
 
-### Frontend Developer & Future AI Developer
+### Fullstack Developer & Future AI Developer
 
 #### Building beautiful web experiences with React & Next.js
 
@@ -15,59 +15,67 @@
 ## Tech Stack
 
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-<br><b>React</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
-<br><b>Next.js</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
-<br><b>Tailwind</b>
-</td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-            <br><b>Docker(Learning)</b>
-        </td>
-</tr>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
-<br><b>Redux Toolkit</b>
-</td>
-<td align="center" width="90">
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
-<br><b>shadcn/ui</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/jest-icon.svg" width="55" height="55" />
-<br><b>Jest</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65"" width="55" height="55" />
-<br><b>Storybook</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
-<br><b>Figma</b>
-</td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
-                width="65" height="65" />
-            <br><b>Socket.io</b>
-        </td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+        width="65" height="65" />
+      <br><b>Socket.io</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
+      <br><b>Redux Toolkit</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
+      <br><b>shadcn/ui</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="55" height="55" />
+      <br><b>Jest</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65"" width="55" height="55" />
+      <br><b>Storybook</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+      <br><b>Tailwind</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+      <br><b>Docker</b>
+    </td>
+  </tr>
 </table>
 
 </div>
