@@ -2,7 +2,7 @@
 
 # Hey, I'm Pouya
 
-### Fullstack Developer & Future AI Developer
+### Frontend Developer & Future AI Developer
 
 #### Building beautiful web experiences with React & Next.js
 
